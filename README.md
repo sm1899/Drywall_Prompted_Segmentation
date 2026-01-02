@@ -19,7 +19,7 @@ This project fine-tunes CLIPSeg to perform binary segmentation on two tasks:
 ### Requirements
 
 ```bash
-conda activate tesy  # or your preferred environment
+conda activate test  # or your preferred environment
 pip install torch torchvision transformers pillow numpy opencv-python matplotlib tqdm
 ```
 
