@@ -1,0 +1,35 @@
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+.Python
+
+# Data and checkpoints
+data/
+checkpoints/
+*.zip
+*.pth
+*.pt
+
+# Results and outputs
+results/
+*.png
+*.jpg
+*.jpeg
+
+# Metrics and logs
+metrics.json
+training_curves.png
+TRAINING_REPORT.txt
+
+# IDE
+.vscode/
+.idea/
+*.swp
+*.swo
+
+# OS
+.DS_Store
+Thumbs.db
+
