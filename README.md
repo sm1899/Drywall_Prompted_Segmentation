@@ -2,6 +2,7 @@
 
 A text-conditioned segmentation model for detecting cracks and drywall taping areas using CLIPSeg fine-tuning.
 
+**DEMO:** [https://huggingface.co/spaces/smcs/Prompted_Segmentation_Drywall](https://huggingface.co/spaces/smcs/Prompted_Segmentation_Drywall)
 ## Overview
 
 This project fine-tunes CLIPSeg to perform binary segmentation on two tasks:
